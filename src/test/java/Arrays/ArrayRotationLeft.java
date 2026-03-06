@@ -22,5 +22,5 @@ public class ArrayRotationLeft {
             System.out.print(num);
         }
     }
-    }
+}
 

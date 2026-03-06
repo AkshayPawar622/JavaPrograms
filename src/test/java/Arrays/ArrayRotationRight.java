@@ -3,7 +3,7 @@ package Arrays;
 public class ArrayRotationRight {
     public static void main(String[] args) {
 
-        int[] arr = {1,2,3,4,5};
+        int[] arr = {1,2,3,4,5,6};
 
         int last = arr[arr.length - 1];
 
